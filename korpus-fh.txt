@@ -1,0 +1,60 @@
+<JUDUL> Asas-Asas Hukum Perburuhan </JUDUL>
+<SINOPSIS> Buku ini berisikan pokok-pokok hukum perburuhan yang menjadi dasar berlakunya Hukum Perburuhan. Disamping itu, buku ini juga memberikan pemahaman mengenai batasan pengertian Hukum Perburuhan dari sudut Lingkup Laku Hukum Perburuhan maupun dari sudut pandang Paradigma Hukum Perburuhan. Selanjutnya di uraikan letak hukum perburuhan dalam Sistem Hukum Perburuhan dan sumber hukum perburuhan. Bahasan berikutnya memuat secara garis besar materi Pengerahan dan Pendayaguna Tenaga Kerja, Hubungan Kerja, Hubungan Industrial, Kesehatan dan Keselamatan Kerja, Pengupahan dan Jaminan Sosial, Penyelesaian Perselisihan Hubungan Industrial dan Pemutusan Hubungan Kerja. Buku ini penting bagi para dosen maupun mahasiswa-mahasiswa yang berminat memperdalam ilmu hukum perburuhan, dengan tidak mengenyampingkan kebutuhan para praktisi yang mungkin juga memerlukannya. </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL> Pengantar Hukum Dagang </JUDUL>
+<SINOPSIS> Buku ini disiapkan bagi mahasiswa hukum yang ingin mendalami hukum dagang. Meskipun demikian, buku ini juga bermanfaat bagi pihak lain yang tertarik untuk mempelajari dan memahami hukum dagang. Namun karena luasnya cakupan hukum dagang, buku ini tidak dimaksudkan untuk membahas secara rinci berbagai materi hukum dagang, melainkan hanya membahas hal-hal pokok dari ruang lingkup hukum dagang. Hal-hal pokok itu antara lain meliputi: hukum perjanjian (kontrak dagang), hukum perusahaan, pembukuan perusahaan, pedagang perantara atau perantara perdagangan (agency), dan surat berharga sebagai salah satu alat pembayaran yang digunakan dalam transaksi perdagangan. </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL> Hukum Acara Perdata dalam Praktek: Contoh Bentuk-Bentuk Surat di Bidang Kepengacaraan Perdata </JUDUL>
+<SINOPSIS> Dengan memberikan contoh-contoh dari segala macam surat/ dokumen yang diperlukan dalam proses beperkara di muka Pengadilan, yaitu dimulai dengan gugatan di muka Pengadilan Negeri, permohonan banding kepada Pengadilan Tinggi, permohonan kasasi kepada Mahkamah Agung dan juga permohon4n peninjauan kembali kepada Mahkamah Agung, sampai pada pelaksanaan (eksekusi) putusan Pengadilan yang telah memperoleh kekuatan hukum yang tetap, maka penulis sungguh telah berhasil menghidupkan jalannya proses dan pemeriksaan/ penyelesaian perkara perdata kepada para pembaca buku ini </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL> Hukum Agraria Indonesia: Sejarah Pembentukan Undang-Undang Pokok Agraria, Isi, Dan Pelaksanaannya </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL> Hukum Pidana Indonesia </JUDUL>
+<SINOPSIS> Hukum pidana adalah bagian dari hukum yang paling sulit. Apakah hukum pidana itu? Pertanyaan ini sulit untuk dijawab seketika karena hukum pidana itu mempunyai banyak segi, yang tiap segi mempunyai arti sendiri-sendiri. Hukum pidana mempunyai ruang lingkup yang bersifat luas dan dapat pula bersifat sempit. Oleh karena itu perlu disebut terlebih dahulu segi-seginya baru kemudian pengertian serta ruang lingkupnya. Artinya, perlu penguraian secara sistematik tentang pengertian hukum pidana itu. Pengertian hukum pidana secara luas mencakup hukum pidana materiel dan hukum pidana formel atau hukum acara pidana. Hukum pidana materiel, yang berarti isi atau substansi hukum pidana itu. Di sini hukum pidana bermakna abstrak atau dalam keadaan diam. Adapun hukum pidana formel atau hukum acara pidana bersifat nyata atau konkret. Di sini hukum pidana dalam keadaan bergerak, atau dijalankan atau berada dalam suatu proses. Oleh karena itu disebut juga acara pidana. Buku ini menguraikan secara komprehensif tentang hukum pidana meliputi pengertian, tempat dan sifat, pembagiannya, sejarahnya, tujuan dan teorinya, ruang lingkup kekuatan berlakunya, interpretasi undang-undang pidana, perbuatan dan rumusan delik, kesalahan dalam arti luas dan melawan hukum, dasar peniadaan pidana, dasar peniadaan penuntutan. Buku ini diharapkan dapat memenuhi kebutuhan praktisi hukum (advokat, hakim, jaksa, kepolisian) di Indonesia, para teoretisi hukum, dan akademisi serta pengembangan hukum pidana di lndonesia. </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
+<JUDUL>  </JUDUL>
+<SINOPSIS>  </SINOPSI>
+<FAKULTAS> FH </FAKULTAS>
