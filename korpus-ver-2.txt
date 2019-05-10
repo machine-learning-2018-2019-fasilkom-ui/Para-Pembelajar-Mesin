@@ -754,3 +754,18 @@ This book is a reproduction of an important historical work. Forgotten Books use
 <JUDUL> Space and Time in Special Relativity </JUDUL>
 <SINOPSIS> A classic of elementary relativistic pedagogy! This straight- forward book introduces readers to the conceptually tricky subject of relativity in understandable terms. The writing is crisp and clearly written by someone who is aware of the conceptual difficulties that nonscientists have in coming to grips with relativity. </SINOPSIS>
 <FAKULTAS> FMIPA </FAKULTAS>
+<JUDUL> Criminology: Theories, Patterns, and Typologies </JUDUL>
+<SINOPSIS> See how criminology relates to criminal justice policy with CRIMINOLOGY: THEORIES, PATTERNS AND TYPOLOGIES! With an in-depth analysis of all areas of criminological theory and crime typologies, this up-to-date criminal justice text provides you with the tools you need to succeed. Studying is made easy with, chapter objectives, end-of-chapter reviews, key concepts, concepts summary tables, and newsworthy examples that help you see how what you are learning applies in the real world. </SINOPSIS>
+<FAKULTAS> FISIP </FAKULTAS>
+<JUDUL> Essentials of Sociology (Third Edition) </JUDUL>
+<SINOPSIS> Henslin's best-selling brief paperback text shares the excitement of sociology-its acclaimed "down-to-earth" approach and personal writing style highlight the sociology of everyday life and its relevance to students' lives. This text is a brief version of the highly regarded hardcover introductory text, "Sociology: A Down-to-Earth Approach, 7/e." The essential 15 chapters cover all of the topics in the 22-chapter text, and retain the dual emphases on micro and macro (individual and structural) sociology. James Henslin has a unique ability to engage students without talking down to them or sacrificing content. With wit, personal reflection, and illuminating examples, he shares with readers a passion for sociology unmatched by any other introductory text. </SINOPSIS>
+<FAKULTAS> FISIP </FAKULTAS>
+<JUDUL> Introduction to Sociology </JUDUL>
+<SINOPSIS> Introduction to Sociology 2e adheres to the scope and sequence of a typical, one-semester introductory sociology course. It offers comprehensive coverage of core concepts, foundational scholars, and emerging theories. The textbook presents section reviews with rich questions, discussions that help students apply their knowledge, and features that draw learners into the discipline in meaningful ways. The second edition has been updated significantly to reflect the latest research and current, relevant examples. </SINOPSIS>
+<FAKULTAS> FISIP </FAKULTAS>
+<JUDUL> Madness and Civilization </JUDUL>
+<SINOPSIS> Michel Foucault examines the archeology of madness in the West from 1500 to 1800 – from the late Middle Ages, when insanity was still considered part of everyday life and fools and lunatics walked the streets freely, to the time when such people began to be considered a threat, asylums were first built, and walls were erected between the “insane” and the rest of humanity. </SINOPSIS>
+<FAKULTAS> FISIP </FAKULTAS>
+<JUDUL> The Second Sex </JUDUL>
+<SINOPSIS> Newly translated and unabridged in English for the first time, Simone de Beauvoir’s masterwork is a powerful analysis of the Western notion of “woman,” and a groundbreaking exploration of inequality and otherness.  This long-awaited new edition reinstates significant portions of the original French text that were cut in the first English translation. Vital and groundbreaking, Beauvoir’s pioneering and impressive text remains as pertinent today as it was back then, and will continue to provoke and inspire generations of men and women to come. </SINOPSIS>
+<FAKULTAS> FISIP </FAKULTAS>
